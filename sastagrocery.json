@@ -1,0 +1,182 @@
+{
+  "01": {
+    "name": "Tomatoes",
+    "price": 20,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "02": {
+    "name": "Potato",
+    "price": 25,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "03": {
+    "name": "Cauliflower",
+    "price": 30,
+    "quantity": 1,
+    "expiry": "06-09-2021"
+  },
+  "04": {
+    "name": "Cabbage",
+    "price": 30,
+    "quantity": 1,
+    "expiry": "06-09-2021"
+  },
+  "05": {
+    "name": "Lady Finger",
+    "price": 20,
+    "quantity": 16,
+    "expiry": "06-09-2021"
+  },
+  "06": {
+    "name": "Pumpkin",
+    "price": 35,
+    "quantity": 1,
+    "expiry": "06-09-2021"
+  },
+  "07": {
+    "name": "Raddish",
+    "price": 20,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "08": {
+    "name": "Carrot",
+    "price": 30,
+    "quantity": 7,
+    "expiry": "06-09-2021"
+  },
+  "09": {
+    "name": "Cucumber",
+    "price": 15,
+    "quantity": 4,
+    "expiry": "06-09-2021"
+  },
+  "10": {
+    "name": "Bitterjourd",
+    "price": 10,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "11": {
+    "name": "French Beans",
+    "price": 25,
+    "quantity": 18,
+    "expiry": "06-09-2021"
+  },
+  "12": {
+    "name": "Spinach",
+    "price": 30,
+    "quantity": 8,
+    "expiry": "06-09-2021"
+  },
+  "13": {
+    "name": "Strawberry",
+    "price": 50,
+    "quantity": 6,
+    "expiry": "06-09-2021"
+  },
+  "14": {
+    "name": "Mango",
+    "price": 40,
+    "quantity": 4,
+    "expiry": "06-09-2021"
+  },
+  "15": {
+    "name": "Raw Mango",
+    "price": 35,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "16": {
+    "name": "Corn",
+    "price": 40,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "17": {
+    "name": "Sweet Corn",
+    "price": 50,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "18": {
+    "name": "Onion",
+    "price": 100,
+    "quantity": 15,
+    "expiry": "06-09-2021"
+  },
+  "19": {
+    "name": "Green Peas",
+    "price": 20,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "20": {
+    "name": "Papaya",
+    "price": 35,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "21": {
+    "name": "Apple",
+    "price": 100,
+    "quantity": 10,
+    "expiry": "06-09-2021"
+  },
+  "22": {
+    "name": "Banana",
+    "price": 50,
+    "quantity": 12,
+    "expiry": "06-09-2021"
+  },
+  "23": {
+    "name": "Pomogrenete",
+    "price": 40,
+    "quantity": 3,
+    "expiry": "06-09-2021"
+  },
+  "24": {
+    "name": "Pineapple",
+    "price": 30,
+    "quantity": 1,
+    "expiry": "06-09-2021"
+  },
+  "25": {
+    "name": "Cherry",
+    "price": 100,
+    "quantity": 16,
+    "expiry": "06-09-2021"
+  },
+  "26": {
+    "name": "Brinjal",
+    "price": 30,
+    "quantity": 6,
+    "expiry": "06-09-2021"
+  },
+  "27": {
+    "name": "",
+    "price": 20,
+    "quantity": 5,
+    "expiry": "06-09-2021"
+  },
+  "28": {
+    "name": "Guava",
+    "price": 70,
+    "quantity": 2,
+    "expiry": "06-09-2021"
+  },
+  "29": {
+    "name": "Lemon",
+    "price": 10,
+    "quantity": 3,
+    "expiry": "06-09-2021"
+  },
+  "30": {
+    "name": "Green Chilli",
+    "price": 10,
+    "quantity": 6,
+    "expiry": "06-09-2021"
+  }
+}
